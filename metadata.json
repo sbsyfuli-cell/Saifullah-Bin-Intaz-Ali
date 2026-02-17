@@ -1,0 +1,7 @@
+{
+  "name": "UBH AL QURAN",
+  "description": "An elegant Islamic application featuring the complete Quran, Hadith sections, an Islamic AI assistant, and audio recitations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
